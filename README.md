@@ -1,3 +1,11 @@
-# perfil-profissional
+REST API | Curriculo Profissional
 
-Meu curriculo - API / Microservice / Spring Boot | Kotlin | H2 Database
+# Planet Microservice
+
+Requirements
+Kotlin
+H2 Database
+Maven
+
+Getting Started
+Swagger : http: //localhost:8080/swagger-ui.html
