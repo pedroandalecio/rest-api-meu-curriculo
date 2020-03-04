@@ -2,6 +2,8 @@
 
 ## Requirements
 
+Spring Boot
+
 Kotlin
 
 H2 Database
